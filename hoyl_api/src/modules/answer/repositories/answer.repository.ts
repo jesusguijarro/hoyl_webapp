@@ -32,6 +32,16 @@ export class AnswerRepository {
     });
   }
 
+  // deletePlayerAnswers(playerUsername: string) {
+  //   return this.prisma.answer.deleteMany({
+  //     where: {
+  //       playerUsername
+  //     }
+  //   });
+  // }
+
+
+  
   // playerAnswers(username: string) {
   //   return this.prisma.answer.findMany({
   //     where: {

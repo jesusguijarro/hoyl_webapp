@@ -38,4 +38,10 @@ export class PlayerResolver {
   answers(@Root() player: Player) {
     return this.playerRepository.answers(player.username);
   }
+
+  @Mutation(() => [Player], { description: "Mutación para elminar uno o más jugadores, y sus respuestas relacionadas." })
+  deleteManyPlayerAndAnswers(@Arg("usernames", () => [String]) usernames: string[]) {
+    //await this.playerRepository.deleteManyPlayerAndAnswers(usernames);
+    return this.playerRepository.deleteManyPlayerAndAnswers(usernames);
+  }
 }

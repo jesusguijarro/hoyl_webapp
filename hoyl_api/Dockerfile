@@ -62,7 +62,3 @@ ENV DATABASE_URL=postgres://postgres:postgres@db:5432/mydb
 #RUN yarn prisma migrate deploy
 
 CMD [ "yarn", "start" ]
-
-# RUN yarn prisma migrate deploy
-
-# docker-compose up --build

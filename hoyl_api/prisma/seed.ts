@@ -10,7 +10,7 @@ async function main() {
       email: "admin@hoyl.com",
       names: "admin",
       lastNames: "admin",
-      password: "$2a$08$4Q/Y32YRGXrjzuW469H6KuMED60lOEqjSvTR1JJuRgctZ.aVOKmEG"
+      password: "$2a$08$XJyPIePsdbgjBmY1L5iKy.NATOmRKV0eRn4.nvZkJPjnzziDC1QbC"
     }
   });
   console.log({ admin });
