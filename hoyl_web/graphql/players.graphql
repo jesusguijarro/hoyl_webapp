@@ -1,0 +1,14 @@
+query Players{
+     players{
+        id
+        username
+        age
+        appearance
+        answers{
+            id
+            question
+            answer
+            playerUsername
+        }
+    }
+}

@@ -1,0 +1,9 @@
+mutation DeleteManyPlayerAndAnswers($usernames: [String!]!) {
+  deleteManyPlayerAndAnswers(usernames: $usernames){
+    appearance
+    id
+    username
+    name
+    age
+  }
+}

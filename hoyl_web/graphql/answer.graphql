@@ -1,0 +1,9 @@
+query Answer($id: ID!) 
+{
+  answer(id: $id) {
+    id
+    question
+    answer
+    playerUsername
+  }
+}

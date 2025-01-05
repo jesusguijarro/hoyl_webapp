@@ -1,0 +1,8 @@
+query Answers{
+  answers {
+    id
+    question
+    answer
+    playerUsername
+  }
+}

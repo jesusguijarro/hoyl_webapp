@@ -1,0 +1,15 @@
+query Player($username: String!){
+  player(username: $username) {
+    id
+    name
+    age
+    username
+    appearance
+    answers {
+      id
+      question
+      answer
+      playerUsername
+    }
+  }
+}
