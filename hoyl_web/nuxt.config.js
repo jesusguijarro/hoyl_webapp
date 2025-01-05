@@ -25,8 +25,7 @@ export default {
 
   // Global CSS
   css: [
-    // Elimina la importación de variables.scss de aquí
-    // '~/assets/variables.scss'
+    'vuetify/dist/vuetify.min.css',
   ],
 
   // Plugins to run before rendering page
@@ -48,7 +47,6 @@ export default {
     middleware: ['user'],
   },
 
-
   // Vuetify module configuration
   vuetify: {
     customVariables: ['~/assets/variables.scss'],
@@ -64,7 +62,6 @@ export default {
           warning: "#E5AB86",
           error: colors.deepOrange.accent4,
           success: "#d7a381",
-          // No es necesario definir aquí el font-family, ya que se configura en variables.scss
         }
       }
     }
