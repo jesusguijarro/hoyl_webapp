@@ -11,7 +11,7 @@
 * Contar con el dispositivo móvil con el videojuego instalado en la misma red que la computadora servidor.
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> Comprobar la comunicación correctamente con la computadora servidor, a veces el firewall bloquea la comunicación con el dispositivo.
 
 ## Pasos para el despliegue
 
