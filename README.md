@@ -10,7 +10,7 @@
    - Prefered DNS Server: 8.8.8.8
 * Contar con el dispositivo móvil con el videojuego instalado en la misma red que la computadora servidor.
 
-> [!IMPORTANTE]
+> [!IMPORTANT]
 > Key information users need to know to achieve their goal.
 
 ## Pasos para el despliegue
