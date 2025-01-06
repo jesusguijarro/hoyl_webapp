@@ -10,7 +10,7 @@
   Prefered DNS Server: 8.8.8.8
 * Contar con el dispositivo móvil con el videojuego instalado en la misma red que la computadora servidor.
 
-1. First list item
+* First list item
    - First nested list item
      - Second nested list item
 
