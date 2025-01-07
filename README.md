@@ -8,7 +8,8 @@
    - Subnet mask: 255.255.255.0
    - Default gateway: 192.168.0.101
    - Prefered DNS Server: 8.8.8.8
-* Contar con un dispositivo móvil con el videojuego instalado en la misma red que la computadora servidor.
+* Contar con un dispositivo móvil con el videojuego instalado en la misma red que la computadora servidor, si no tiene acceso al apk puede obtenerla en el siguiente link:
+https://drive.google.com/drive/u/0/folders/1zy12SXURrd7A-QgYwXS5dKUOlrnuo8UJ
  
 > [!NOTE]
 > Las pruebas se realizaron haciendo uso de un router con el DHCP desactivado, para asignar ips estáticas manualmente en cada dispositivo (con un rango de 192.168.0.100-115).
