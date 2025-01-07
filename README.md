@@ -8,11 +8,10 @@
    - Subnet mask: 255.255.255.0
    - Default gateway: 192.168.0.101
    - Prefered DNS Server: 8.8.8.8
+* Contar con un dispositivo móvil con el videojuego instalado en la misma red que la computadora servidor.
  
 > [!NOTE]
-> Las pruebas se realizaron haciendo uso de un router con el DHCP desactivado, para asignar ips estáticas manualmente en cada dispositivo (con un rango de 100-115).
-
-* Contar con un dispositivo móvil con el videojuego instalado en la misma red que la computadora servidor.
+> Las pruebas se realizaron haciendo uso de un router con el DHCP desactivado, para asignar ips estáticas manualmente en cada dispositivo (con un rango de 192.168.0.100-115).
 
 > [!IMPORTANT]
 > Comprobar la comunicación correctamente con la computadora servidor, a veces el firewall bloquea la comunicación con el dispositivo.
