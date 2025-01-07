@@ -17,6 +17,9 @@ https://drive.google.com/drive/u/0/folders/1zy12SXURrd7A-QgYwXS5dKUOlrnuo8UJ
 > [!IMPORTANT]
 > Comprobar la comunicación correctamente con la computadora servidor, a veces el firewall bloquea la comunicación con el dispositivo.
 
+> [!CAUTION]
+> En caso de que el videojuego no avance del registro, significa que no hay comunicación entre el dispositivo móvil y la computadora servidor.
+
 ## Pasos para el despliegue
 
 1. Clonar el repositorio a la ubicación deseada con el siguiente comando:
