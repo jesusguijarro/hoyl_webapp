@@ -50,6 +50,9 @@ export default {
   // Vuetify module configuration
   vuetify: {
     customVariables: ['~/assets/variables.scss'],
+    icons: {
+    iconfont: 'mdi', // default - only for display purposes
+    }, 
     theme: {
       dark: false,
       light: true,
